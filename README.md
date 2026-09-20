@@ -2,9 +2,6 @@
 
 A command-line network traffic analyser built with **Python** and **Scapy**. The project captures network packets in real time and extracts useful information such as IP addresses, protocols, ports, packet sizes and commonly associated services.
 
-I built this project to develop my practical understanding of **network traffic analysis, packet structure and cybersecurity monitoring** using Python.
-
-> **Note:** This project is intended for use on networks and devices that you own or have permission to monitor.
 
 ## Features
 
@@ -261,9 +258,3 @@ Possible future improvements include:
 - More advanced statistical analysis
 - Configurable capture interfaces
 - Detection of unusual traffic patterns
-
-## Disclaimer
-
-This project is intended for **educational and authorised network monitoring purposes**.
-
-Only capture and analyse network traffic on systems and networks where you have permission to do so.
